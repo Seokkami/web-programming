@@ -62,5 +62,6 @@
 @media(max-width:1000px){
     #iframe1{
         border-right:none;
+        float:none;
     }
 }
